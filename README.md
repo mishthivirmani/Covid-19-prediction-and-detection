@@ -1,1 +1,1 @@
-# Covid-19-prediction-and-detection
+# Covid-19-prediction and analysis
